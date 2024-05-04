@@ -1,0 +1,13 @@
+{
+  "name": "nodejscrashcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env --watch server2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
